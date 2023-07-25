@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darshanchovatiya
-- 👀 I’m interested in web development and digital marketing
-- 🌱 I’m currently learning plugin development
-- 💞️ I’m looking to collaborate on digital marketing
+- 👀 I’m interested in web development and design
+- 🌱 I’m currently growing myself and my business
+- 💞️ I’m looking to collaborate on WordPress
 - 📫 How to reach me darshandevelopment@gmail.com
 
 <!---
